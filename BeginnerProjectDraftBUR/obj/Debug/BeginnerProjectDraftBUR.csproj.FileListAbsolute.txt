@@ -1,0 +1,4 @@
+c:\users\balmifra\documents\visual studio 2015\Projects\BeginnerProjectDraftBUR\BeginnerProjectDraftBUR\bin\Debug\BeginnerProjectDraftBUR.exe.config
+c:\users\balmifra\documents\visual studio 2015\Projects\BeginnerProjectDraftBUR\BeginnerProjectDraftBUR\obj\Debug\BeginnerProjectDraftBUR.csprojResolveAssemblyReference.cache
+c:\users\balmifra\documents\visual studio 2015\Projects\BeginnerProjectDraftBUR\BeginnerProjectDraftBUR\obj\Debug\BeginnerProjectDraftBUR.Properties.Resources.resources
+c:\users\balmifra\documents\visual studio 2015\Projects\BeginnerProjectDraftBUR\BeginnerProjectDraftBUR\obj\Debug\BeginnerProjectDraftBUR.csproj.GenerateResource.Cache
